@@ -1,5 +1,8 @@
 _repo: Stain-Removal-from-Fabrics-Home-Methods_65430
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 65430-h/images/cover.jpg
 creator:
   author:
     agent_name: Furry, Margaret Smith
@@ -8,6 +11,8 @@ creator:
     gutenberg_agent_id: '53333'
     url: http://www.gutenberg.org/2009/agents/53333
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/65430#Stain-Removal-from-Fabrics-Home-Methods
 gutenberg_issued: '2021-05-23'
 gutenberg_type: Text
 identifiers:
